@@ -13,6 +13,7 @@ You will need to change the following code in `app.ts`
 ```
 defaultFirebase('https://[YOUR-APP-NAME].firebaseio.com/'),
 ```
+
 --
 
 ###This Application was tested with the following configuration
